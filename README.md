@@ -149,4 +149,3 @@ stl-lite/
 
 - C++17 or later
 - CMake 3.14+
-- GoogleTest (automatically downloaded using `FetchContent`)
